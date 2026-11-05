@@ -1,1 +1,1 @@
-# chaotic-good-barbarian
+# Chaotic Good Barbarian
