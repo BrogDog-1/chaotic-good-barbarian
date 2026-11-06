@@ -1,10 +1,10 @@
 # Chaotic Good Barbarian
 
-## Rurik Thunderfist
+## Chaotic Good Barbarian
 
 Half-orc barbarian, Chaotic Good. Level 3, Path of the Totem Warrior (Bear).
 
-Rurik was cast out of his tribe for refusing to raid a defenseless village. Now he wanders the roads breaking up what he calls "bully work": slavers, corrupt tax collectors, anyone picking on people smaller than them.
+Chaotic Good Barbarian was cast out of his tribe for refusing to raid a defenseless village. Now he wanders the roads breaking up what he calls "bully work": slavers, corrupt tax collectors, anyone picking on people smaller than them.
 
 **The code:** never hit down, never leave a friend behind, and if a tyrant needs smashing, smash first and ask questions never.
 
