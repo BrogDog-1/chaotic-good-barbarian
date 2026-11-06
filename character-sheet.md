@@ -1,4 +1,4 @@
-# Rurik Thunderfist — Character Sheet
+# Chaotic Good Barbarian — Character Sheet
 
 - **Race:** Half-orc
 - **Class:** Barbarian 3 (Path of the Totem Warrior — Bear)
@@ -50,7 +50,7 @@
 
 ## Backstory
 
-Rurik grew up in a mountain tribe that paid its way by raiding. When the chief ordered a raid on a farming village that had nothing worth taking, Rurik refused, broke the chief's jaw, and walked out. He has been walking ever since, hiring out his axe to anyone who needs a wall between them and something bigger.
+Chaotic Good Barbarian grew up in a mountain tribe that paid its way by raiding. When the chief ordered a raid on a farming village that had nothing worth taking, Chaotic Good Barbarian refused, broke the chief's jaw, and walked out. He has been walking ever since, hiring out his axe to anyone who needs a wall between them and something bigger.
 
 ## Personality
 
